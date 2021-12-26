@@ -2,6 +2,19 @@
 # Spotify Popularity Analysis
 
 ## Overview
+### Selected topic  
+We will be analyzing various features of 230,000 different Spotify tracks across genres to see which features are the most predictive in determining the popularity of the track.  Tools, languages and libraries we will use include Python, Pandas, Flask, Tableau, AWS databases, PostGRE, among others.  Our hope is to produce a web application that will share the findings and enable a user to enter characteristics to predict the popularity of a track.  
+
+### Reason we selected the topic  
+All three of the project participants are musicians.  Regardless of the type of music we play or the instruments, we all found the data set to be an interesting one for further study.  
+
+### Questions we hope to answer with the data
+* What features are the most predictive in determining track popularity?
+* What are the optimal combination of features for popular tracks?
+* Are there any differences across genres?
+
+## Description of the Communication Protocols  
+Our group will meet regularly during class times (Tuesdays and Thursdays from 7 to 9 pm), will decide upon separate tasks for completion, and will contact each other as needed via Slack.
 
 ## Participants  
 Project produced in January 2022 by Chester Williams, Elle Jacobs, and Vince Chandler.
@@ -25,8 +38,13 @@ Raw data features include (explanation from [Spotify Developer Documentation](ht
 * Time_signature: An estimated time signature. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of "3/4", to "7/4".
 * Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
+## Findings  
+
+## Link to app  
+Link to dashboard (or link to video of dashboard demonstration)
+
+## Link to Google Slides presentation  
+Link: 
 
 Should include: 
 * Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
-* Link to dashboard (or link to video of dashboard demonstration)
-* Link to Google Slides presentation
