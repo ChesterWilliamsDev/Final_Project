@@ -38,7 +38,12 @@ Raw data features include (explanation from [Spotify Developer Documentation](ht
 * Time_signature: An estimated time signature. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of "3/4", to "7/4".
 * Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
+## Provisional Machine Learning  
+For our first pass, we are classifying 'popular' tracks as scored 50 or more.  Since this is a binary classification, we will start with a logistic regression model to see how effective it will be.  The provisional code for this is located in the 'import_clean' notebook on the 'vc' branch.
+
 ## Findings  
+TBD
+
 
 ## Link to app  
 Link to dashboard (or link to video of dashboard demonstration)
